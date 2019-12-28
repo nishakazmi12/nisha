@@ -1,0 +1,2 @@
+Added line to file1.text
+Added 2nd line to file1.text
